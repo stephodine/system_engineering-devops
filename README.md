@@ -1,1 +1,1 @@
-This is my week two assignment in the ALX Pathway Program
+All about processes and signals in Linux
